@@ -1,9 +1,9 @@
 include theos/makefiles/common.mk
 
-TWEAK_NAME = SimulatedKeyEvents
-SimulatedKeyEvents_FILES = Tweak.xm
-SimulatedKeyEvents_FRAMEWORKS = CoreGraphics UIKit
-SimulatedKeyEvents_LIBRARIES = cephei
+TWEAK_NAME = Codling
+Codling_FILES = Tweak.xm
+Codling_FRAMEWORKS = CoreGraphics UIKit
+Codling_LIBRARIES = cephei
 
 SUBPROJECTS = prefs
 

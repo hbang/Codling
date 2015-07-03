@@ -1,8 +1,7 @@
 Package: ws.hbang.codling
 Name: Codling
-Conflicts: com.saurik.iphone.ske
-Depends: mobilesubstrate, firmware (>= 7.0), cydia, ws.hbang.common (>= 1.2)
-Version: 1.0
+Depends: mobilesubstrate, firmware (>= 7.0), cydia (>= 1.1.19), ws.hbang.common (>= 1.2)
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Blurred Cydia loading HUDs
 Maintainer: HASHBANG Productions <support@hbang.ws>
