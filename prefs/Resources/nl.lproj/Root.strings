@@ -6,7 +6,7 @@
 	<key>ENABLED</key>
 	<string>Ingeschakeld</string>
 
-	<!-- Button that leads to a menu of avilable styles. -->
+	<!-- Button that leads to a menu of available styles. -->
 	<key>STYLE</key>
 	<string>Stijl</string>
 
