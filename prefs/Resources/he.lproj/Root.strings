@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DARK_STYLE</key>
+	<string>כהה</string>
+	<key>ENABLED</key>
+	<string>מופעל</string>
+	<key>LIGHT_STYLE</key>
+	<string>בהיר</string>
+	<key>STYLE</key>
+	<string>סגנון</string>
+</dict>
+</plist>
