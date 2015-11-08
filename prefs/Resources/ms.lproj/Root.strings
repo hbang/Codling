@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- Label for the switch that enables/disables the tweak. -->
+	<key>ENABLED</key>
+	<string>Membolehkan</string>
+
+	<!-- Button that leads to a menu of available styles. -->
+	<key>STYLE</key>
+	<string>Stail</string>
+
+	<!-- Labels for the two available styles. -->
+	<key>DARK_STYLE</key>
+	<string>Gelap</string>
+	<key>LIGHT_STYLE</key>
+	<string>Cerah</string>
+</dict>
+</plist>
