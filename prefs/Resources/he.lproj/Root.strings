@@ -2,13 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>DARK_STYLE</key>
-	<string>כהה</string>
+	<!-- Label for the switch that enables/disables the tweak. -->
 	<key>ENABLED</key>
 	<string>מופעל</string>
-	<key>LIGHT_STYLE</key>
-	<string>בהיר</string>
+
+	<!-- Button that leads to a menu of available styles. -->
 	<key>STYLE</key>
 	<string>סגנון</string>
+
+	<!-- Labels for the two available styles. -->
+	<key>DARK_STYLE</key>
+	<string>כהה</string>
+	<key>LIGHT_STYLE</key>
+	<string>בהיר</string>
 </dict>
 </plist>
