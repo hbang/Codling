@@ -15,8 +15,6 @@
 			<string>icon.png</string>
 			<key>packageIdentifier</key>
 			<string>ws.hbang.codling</string>
-			<key>packageNameOverride</key>
-			<string>Codling</string>
 		</dict>
 		<dict>
 			<key>cell</key>
