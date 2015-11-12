@@ -44,6 +44,20 @@
 			<key>PostNotification</key>
 			<string>ws.hbang.codling/ReloadPrefs</string>
 		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>HBCDAboutListController</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>ABOUT</string>
+		</dict>
 	</array>
 	<key>title</key>
 	<string>Codling</string>
