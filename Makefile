@@ -3,7 +3,7 @@ include $(THEOS)/makefiles/common.mk
 TWEAK_NAME = Codling
 Codling_FILES = Tweak.xm
 Codling_FRAMEWORKS = CoreGraphics UIKit
-Codling_LIBRARIES = cephei
+Codling_EXTRA_FRAMEWORKS = Cephei
 
 SUBPROJECTS = prefs
 

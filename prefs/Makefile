@@ -5,7 +5,7 @@ Codling_FILES = HBCDRootListController.m
 Codling_INSTALL_PATH = /Library/PreferenceBundles
 Codling_FRAMEWORKS = UIKit
 Codling_PRIVATE_FRAMEWORKS = Preferences
-Codling_LIBRARIES = cepheiprefs
+Codling_EXTRA_FRAMEWORKS = CepheiPrefs
 
 include $(THEOS_MAKE_PATH)/bundle.mk
 
