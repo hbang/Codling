@@ -1,7 +1,7 @@
 include $(THEOS)/makefiles/common.mk
 
 BUNDLE_NAME = Codling
-Codling_FILES = HBCDRootListController.m
+Codling_FILES = $(wildcard *.m)
 Codling_INSTALL_PATH = /Library/PreferenceBundles
 Codling_FRAMEWORKS = UIKit
 Codling_PRIVATE_FRAMEWORKS = Preferences
