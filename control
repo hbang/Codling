@@ -1,7 +1,7 @@
 Package: ws.hbang.codling
 Name: Codling
 Depends: mobilesubstrate, firmware (>= 7.0), cydia (>= 1.1.19), ws.hbang.common (>= 1.9)
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm
 Description: Blurred Cydia loading HUDs
 Maintainer: HASHBANG Productions <support@hbang.ws>
