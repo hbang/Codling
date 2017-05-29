@@ -6,5 +6,10 @@ Architecture: iphoneos-arm
 Description: Blurred Cydia loading HUDs
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Author: HASHBANG Productions <support@hbang.ws>
-Support: https://hbang.ws/support/
 Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Codling.bundle/icon@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.codling/
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+dev: hbang
