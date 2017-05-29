@@ -34,7 +34,7 @@
 			<key>subtitle</key>
 			<string>VISIT_WEBSITE</string>
 			<key>url</key>
-			<string>https://www.hbang.ws/</string>
+			<string>https://hbang.ws/</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -62,7 +62,7 @@
 			<key>cellClass</key>
 			<string>HBTintedTableCell</string>
 			<key>defaults</key>
-			<string>ws.hbang.typestatus2</string>
+			<string>ws.hbang.codling</string>
 			<key>label</key>
 			<string>EMAIL_SUPPORT</string>
 		</dict>
@@ -78,7 +78,7 @@
 			<key>label</key>
 			<string>TRANSLATORS</string>
 			<key>url</key>
-			<string>https://www.hbang.ws/translations/</string>
+			<string>https://hbang.ws/translations/</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -94,7 +94,7 @@
 			<key>label</key>
 			<string>DONATE</string>
 			<key>url</key>
-			<string>https://www.hbang.ws/donate/</string>
+			<string>https://hbang.ws/donate/</string>
 		</dict>
 	</array>
 	<key>title</key>
